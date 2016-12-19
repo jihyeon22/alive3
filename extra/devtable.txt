@@ -1,0 +1,2 @@
+# external I/O for neoM2M
+/dev/alive	c	666	0	0	255	0	-	-	-
